@@ -18,6 +18,9 @@
 	align-items: center;
 	justify-content: space-between;
 }
+.link {
+	color:white;
+}
 .logo{
 	position: absolute;
 	left: 0%;
